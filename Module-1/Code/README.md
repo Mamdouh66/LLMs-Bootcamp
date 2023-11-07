@@ -56,4 +56,4 @@ b1 = b1 - a _ dB1
 W2 = W2 - a _ dW2
 b2 = b2 - a _ dB2
 
-where a is the learning rate
+where a is the learning rate which is a hyper-parameter that we decide.
